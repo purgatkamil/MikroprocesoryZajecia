@@ -22,13 +22,14 @@ sprawdziæ wielkoœæ:
 #include <avr/io.h>
 #include "global.h"
 #include "spi.h"
-#include "i2c"
+#include "i2c.h"
 
 int main(void)
 {
     /* Replace with your application code */
     while (1) 
     {
+		
     }
 }
 
